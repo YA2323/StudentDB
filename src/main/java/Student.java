@@ -4,7 +4,7 @@ public class Student {
     int studentID ;
 
 
-    public Student(){ //Leerer Konstruktorb
+    public Student(){ //Leerer Konstruktor
     }
 
     //Konstruktor
