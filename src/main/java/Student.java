@@ -12,7 +12,6 @@ public class Student {
         this.studentName = studentName;
         this.studentID = studentID;
     }
-
     public String getStudentName() {
         return this.studentName;
     }
