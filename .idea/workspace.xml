@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="389e7bec-314c-4a97-9496-962c39ee2277" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="389e7bec-314c-4a97-9496-962c39ee2277" name="Changes" comment="StudentDb" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,7 +73,37 @@
       <workItem from="1656945797753" duration="7104000" />
       <workItem from="1657006124632" duration="4065000" />
       <workItem from="1657040617925" duration="3225000" />
+      <workItem from="1657093815476" duration="129000" />
     </task>
+    <task id="LOCAL-00001" summary="StudentDB">
+      <created>1657093829379</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1657093829379</updated>
+    </task>
+    <task id="LOCAL-00002" summary="StudentDB">
+      <created>1657093841194</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1657093841194</updated>
+    </task>
+    <task id="LOCAL-00003" summary="StudentDB">
+      <created>1657093858173</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1657093858173</updated>
+    </task>
+    <task id="LOCAL-00004" summary="StudentDb">
+      <created>1657093928903</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1657093928903</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,5 +119,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="StudentDB" />
+    <MESSAGE value="StudentDb" />
+    <option name="LAST_COMMIT_MESSAGE" value="StudentDb" />
   </component>
 </project>
